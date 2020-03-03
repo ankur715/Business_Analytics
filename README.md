@@ -8,5 +8,5 @@
 ---
 ### Python Integration
 <p align="center">
-  <img width="800" height="600" src="https://github.com/ankur715/business_analytics/blob/master/sales_rep/python_excel.JPG"> 
+  <img width="700" height="550" src="https://github.com/ankur715/business_analytics/blob/master/sales_rep/python_excel.JPG"> 
 </p>
